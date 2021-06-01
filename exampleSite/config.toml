@@ -1,7 +1,7 @@
 ################################# Basic configuration #########################
 # Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-baseURL = "http://examplesite.org"
-title = "Airspace | Creative Agency Hugo Template"
+baseURL = "https://allnations.tech"
+title = "All Nations Cafe Tech"
 theme = "airspace-hugo"
 # Number of posts per page in list view
 paginate = "4"
@@ -10,9 +10,9 @@ summaryLength = "30"
 # Disabled languages
 disableLanguages = []
 # Short name to enable Disqus comments
-disqusShortname = "" # Get your shortname from here: https://disqus.com/profile/signup/
+disqusShortname = "all-nations-cafe" # Get your shortname from here: https://disqus.com/profile/signup/
 # Measurement ID (G-XXXXXXX) to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "G-MQ5G0ZFSVX"
 
 
 ################################# Output formats ##############################
